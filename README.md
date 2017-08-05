@@ -1,2 +1,21 @@
-# People-You-Should-Follow-on-Open-Processing
-People You Should Follow on https://www.openprocessing.org/
+# People You Should Follow on [Open Processing](https://www.openprocessing.org/)
+> Algorithmic Designfor the Creative Hive
+
+- [Adam Lastowka](https://www.openprocessing.org/user/16036)
+- [Asher Salomon](https://www.openprocessing.org/user/4475)
+- [Bárbara Almeida](https://www.openprocessing.org/user/45107)
+- [benjamin](https://www.openprocessing.org/user/24298)
+- [bitcraft](https://www.openprocessing.org/user/1720)
+- [Daniel Shiffman](https://www.openprocessing.org/user/53)
+- [Diana Lange](https://www.openprocessing.org/user/5969)
+- [Gerd Platl](https://www.openprocessing.org/user/7234)
+- [Giovanni Carlo Mingati](https://www.openprocessing.org/user/618)
+- [Jacob Joaquin](https://www.openprocessing.org/user/23998)
+- [Jared Counts](https://www.openprocessing.org/user/3044)
+- [Jason Labbe](https://www.openprocessing.org/user/60876)
+- [Mintesno Zewdu](https://www.openprocessing.org/user/56421)
+- [mitchell whitelaw](https://www.openprocessing.org/user/264)
+- [ramayac](https://www.openprocessing.org/user/12821)
+- [Robert D'Arcy](https://www.openprocessing.org/user/43968)
+- [Saskia Freeke](https://www.openprocessing.org/user/48307)
+- [Sinan Ascioglu](https://www.openprocessing.org/user/1)

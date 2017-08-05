@@ -1,5 +1,5 @@
 # People You Should Follow on [Open Processing](https://www.openprocessing.org/)
-> Algorithmic Designfor the Creative Hive
+> Algorithmic Design for the Creative Hive
 
 - [Adam Lastowka](https://www.openprocessing.org/user/16036)
 - [Asher Salomon](https://www.openprocessing.org/user/4475)
